@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "ToG.io"
+
+
+[params]
+  isoCode = "en"
+  description = "Some cool knowledges :)"
+  displayName = "EN"
+  dateFormat = "2 January 2006"
+  rtl = false
+
+[author]
+  name = "ToG"
+  image = "logo-min.jpg"
+
+  # headline = ""
+  # bio = ""
+  links = [
+    { rootme = "https://www.root-me.org/ToG" },
+    { discord = "https://discord.com/users/275673532967682054" },
+    { linkedin = "https://www.linkedin.com/in/yvinec-theo/" },
+  ]
